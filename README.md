@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Junjie Chen</h1>
+<h1 align="center">Hi 👋, I'm Junjie (Jorji)</h1>
 
 <h3 align="center">I primarily use Python, but I'm interested in C++, Rust, Java, Go and front-end development.</h3>
 
@@ -7,8 +7,3 @@
 - 🌱 I’m currently working on **LLM pruning**
 
 - 📫 How to reach me **jorji.chen@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/coderchen01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coderchen01" height="30" width="40" /></a>
-</p>
