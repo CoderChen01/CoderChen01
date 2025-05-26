@@ -1,18 +1,23 @@
 # Hi there, I'm Junjie (Jorji) Chen (陈俊杰) 👋
 
 ## 🚀 About Me
-I am currently a second-year master’s student at Anhui Polytechnic University (AHPU), under the supervision of Subin Huang. My research is primarily focused on **Efficient AI, Multimodal AI, and Generative AI**.
+I am currently a second-year master’s student at **Anhui Polytechnic University (AHPU)**, under the supervision of **Prof. Subin Huang**. My research is centered around **Efficient AI**, **Multimodal Learning**, **Generative AI**, and **Spatial Intelligence**.
 
-🌱 I am deeply committed to advancing these fields, continually exploring innovative methodologies to enhance AI efficiency and adaptability. Now, I am honored to serve as a research assistant for [Linfeng Zhang](http://www.zhanglinfeng.tech/), where I contribute to projects on Efficient AI.
+🌱 I am passionate about building intelligent systems that are both **powerful** and **practical**, with a focus on optimizing efficiency, cross-modal understanding, and real-world deployment. I'm currently a **Research Assistant** working with [**Linfeng Zhang**](http://www.zhanglinfeng.tech/) on projects related to **Efficient AI**.
 
-💡 I thrive on curiosity and am always looking for exciting challenges and collaborations. If you're working on something interesting, let's connect!
+💼 I also serve as a **Research Intern at TeleAI, China Telecom**, where I’m involved in projects at the intersection of AI systems, spatial reasoning, and industrial applications.
+
+💡 I thrive on curiosity and am always eager to tackle ambitious challenges. If you're working on exciting AI problems, I'd love to connect and collaborate!
 
 ---
 
 ## 🔬 Research Interests
-- **Efficient AI** ⚡ (Optimizing AI for speed, cost, and resource constraints)
-- **Multimodal AI** 🎭 (Bridging vision, language, and more)
-- **Generative AI** 🖌️ (Exploring creative and synthesis models)
+- **Efficient AI** ⚡ — Accelerating AI models for faster, cheaper, and greener performance.
+- **Multimodal AI** 🎭 — Integrating vision, language, audio, and beyond for holistic understanding.
+- **Generative AI** 🖌️ — Developing models that create, simulate, and imagine.
+- **Spatial Intelligence** 🧭 — Teaching machines to perceive, reason, and act in spatial environments (e.g., embodied AI, 3D understanding, geospatial AI).
 
-### 💬 Let's Collaborate!
-If you’re working on cutting-edge AI research and looking for potential collaboration, feel free to reach out!
+---
+
+## 💬 Let's Collaborate!
+If you’re exploring the frontiers of AI and looking for collaborators or research partners, feel free to reach out — I’m always open to meaningful research and discussion.
