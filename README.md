@@ -10,8 +10,6 @@ My research is centered around AI4Psychology, Efficient AI, Multimodal AI, Gener
 
 💡 I thrive on curiosity and am always eager to tackle ambitious challenges. If you’re working on exciting AI problems, I’d love to connect and collaborate!
 
-⸻
-
 ## 🔬 Research Interests
 
 -	AI4Psychology 🧠 - Bridging artificial intelligence and psychology to better understand and augment human cognition.
@@ -19,8 +17,6 @@ My research is centered around AI4Psychology, Efficient AI, Multimodal AI, Gener
 -	Multimodal AI 🎭 - Integrating vision, language, audio, and beyond for holistic understanding.
 -	Generative AI 🖌️ - Developing models that create, simulate, and imagine.
 -	Spatial Intelligence 🧭 - Teaching machines to perceive, reason, and act in spatial environments (e.g., embodied AI, 3D understanding, geospatial AI).
-
-⸻
 
 ## 💬 Let’s Collaborate!
 
