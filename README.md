@@ -3,8 +3,9 @@
 ## 🚀 About Me
 
 I am currently a third-year master’s student at Anhui Polytechnic University (AHPU), under the supervision of Prof. Subin Huang.
+My hometown is [Lu’an, Anhui, China](https://en.wikipedia.org/wiki/Lu%27an).
 
-I am a Research Intern at the Institute of Artificial Intelligence, Hefei Comprehensive National Science Center, supervised by Prof. [Meng Wang](https://scholar.google.com/citations?user=rHagaaIAAAAJ&hl=en), where I will be joining as an incoming PhD student (Fall 2026). I am also a Research Assistant working with [Linfeng Zhang](https://scholar.google.com/citations?user=AK9VF30AAAAJ&hl=en&authuser=1) on projects related to Efficient AI.
+I am a Research Intern at the Institute of Artificial Intelligence, [Hefei](https://en.wikipedia.org/wiki/Hefei) Comprehensive National Science Center, supervised by Prof. [Meng Wang](https://scholar.google.com/citations?user=rHagaaIAAAAJ&hl=en), where I will be joining as an incoming PhD student (Fall 2026). I am also a Research Assistant working with [Linfeng Zhang](https://scholar.google.com/citations?user=AK9VF30AAAAJ&hl=en&authuser=1) on projects related to Efficient AI.
 
 My research is centered around AI4Psychology, Efficient AI, Multimodal AI, Generative AI, and Spatial Intelligence.
 
