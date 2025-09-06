@@ -1,6 +1,6 @@
-Hi there, I’m Junjie (Jorji) Chen (陈俊杰) 👋
+# Hi there, I’m Junjie (Jorji) Chen (陈俊杰) 👋
 
-🚀 About Me
+## 🚀 About Me
 
 I am currently a third-year master’s student at Anhui Polytechnic University (AHPU), under the supervision of Prof. Subin Huang.
 
@@ -12,15 +12,16 @@ My research is centered around AI4Psychology, Efficient AI, Multimodal AI, Gener
 
 ⸻
 
-🔬 Research Interests
-	-	AI4Psychology 🧠 - Bridging artificial intelligence and psychology to better understand and augment human cognition.
-	-	Efficient AI ⚡ - Accelerating AI models for faster, cheaper, and greener performance.
-	-	Multimodal AI 🎭 - Integrating vision, language, audio, and beyond for holistic understanding.
-	-	Generative AI 🖌️ - Developing models that create, simulate, and imagine.
-	-	Spatial Intelligence 🧭 - Teaching machines to perceive, reason, and act in spatial environments (e.g., embodied AI, 3D understanding, geospatial AI).
+## 🔬 Research Interests
+
+-	AI4Psychology 🧠 - Bridging artificial intelligence and psychology to better understand and augment human cognition.
+-	Efficient AI ⚡ - Accelerating AI models for faster, cheaper, and greener performance.
+-	Multimodal AI 🎭 - Integrating vision, language, audio, and beyond for holistic understanding.
+-	Generative AI 🖌️ - Developing models that create, simulate, and imagine.
+-	Spatial Intelligence 🧭 - Teaching machines to perceive, reason, and act in spatial environments (e.g., embodied AI, 3D understanding, geospatial AI).
 
 ⸻
 
-💬 Let’s Collaborate!
+## 💬 Let’s Collaborate!
 
 If you’re exploring the frontiers of AI and looking for collaborators or research partners, feel free to reach out — I’m always open to meaningful research and discussion.
