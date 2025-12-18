@@ -2,12 +2,9 @@
 
 ## 🚀 About Me
 
-I am currently a third-year master’s student at **Anhui Polytechnic University (AHPU)**, supervised by **Prof. Subin Huang**.  
-My hometown is [Lu’an, Anhui, China](https://en.wikipedia.org/wiki/Lu%27an).
+I am currently a third-year master’s student at **Anhui Polytechnic University (AHPU)**, supervised by **Prof. Subin Huang**.
 
-I am a **Research Intern** at the [Institute of Artificial Intelligence](https://iai.ustc.edu.cn/iai/), [Hefei](https://en.wikipedia.org/wiki/Hefei) Comprehensive National Science Center, supervised by **Prof. [Meng Wang](https://scholar.google.com/citations?user=rHagaaIAAAAJ&hl=en)**, and I plan to apply for **PhD studies in Fall 2026**.
-
-I am also working with **[Linfeng Zhang](https://scholar.google.com/citations?user=AK9VF30AAAAJ&hl=en&authuser=1)** and his research group, where I am learning and exploring research problems related to **Efficient AI**.
+I am a **Research Intern** at the [Institute of Artificial Intelligence](https://iai.ustc.edu.cn/iai/), [Hefei](https://en.wikipedia.org/wiki/Hefei) Comprehensive National Science Center, supervised by **Prof. [Meng Wang](https://scholar.google.com/citations?user=rHagaaIAAAAJ&hl=en)**, and I plan to apply for **PhD studies in Fall 2026**. I am also working with **[Linfeng Zhang](https://scholar.google.com/citations?user=AK9VF30AAAAJ&hl=en&authuser=1)** and his research group, where I am learning and exploring research problems related to **Efficient AI**.
 
 💡 I am broadly interested in understanding how AI systems can better model human psychological and emotional states, and how such understanding can be incorporated into practical and efficient interactive systems.
 
