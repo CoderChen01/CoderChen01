@@ -22,7 +22,7 @@ In particular, I am learning and exploring:
 - 🔊🖼️ **Multimodal interaction**, combining language with visual, acoustic, and behavioral cues.
 - ⚡ **Efficiency-aware methods** for building deployable and scalable dialogue models.
 
-My goal is to gradually develop dialogue systems that can align more closely with human affective and cognitive processes, rather than relying on coarse or surface-level emotional signals.
+For a deeper dive into my long-term roadmap and methodology, please visit my [Research Vision](https://www.junjie-chen.info/research-vision/).
 
 ---
 
